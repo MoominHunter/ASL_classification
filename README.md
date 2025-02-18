@@ -1,6 +1,5 @@
 # 🤟 수어 판별기 (ASL Classification) ✨
 
-![Streamlit App](https://user-images.githubusercontent.com/example/screenshot.png)  
 수어 이미지를 업로드하거나 카메라로 촬영하면 해당 수어가 무엇인지 AI가 판별해주는 웹 애플리케이션입니다.  
 이 앱은 **TensorFlow Keras 모델을 활용**하여 **수어 인식(ASL)** 기능을 제공합니다.  
 
